@@ -1,6 +1,10 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Server", "Server", "{75F3ABBA-AA63-4F95-8AA5-3DFAE8CC76F7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Clients", "Clients", "{AAE429F1-A494-4E0D-999C-7ECE242EE98E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 	EndGlobalSection
