@@ -5,9 +5,26 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Server", "Server", "{75F3AB
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Clients", "Clients", "{AAE429F1-A494-4E0D-999C-7ECE242EE98E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OidcServer", "Server\OidcServer\OidcServer.csproj", "{03D01869-5EF6-49A1-8673-DF5507C45DED}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{E1F4C1DA-5C87-46DA-B0E7-BA123CC35FA8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03D01869-5EF6-49A1-8673-DF5507C45DED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03D01869-5EF6-49A1-8673-DF5507C45DED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03D01869-5EF6-49A1-8673-DF5507C45DED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03D01869-5EF6-49A1-8673-DF5507C45DED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1F4C1DA-5C87-46DA-B0E7-BA123CC35FA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1F4C1DA-5C87-46DA-B0E7-BA123CC35FA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1F4C1DA-5C87-46DA-B0E7-BA123CC35FA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1F4C1DA-5C87-46DA-B0E7-BA123CC35FA8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{03D01869-5EF6-49A1-8673-DF5507C45DED} = {75F3ABBA-AA63-4F95-8AA5-3DFAE8CC76F7}
 	EndGlobalSection
 EndGlobal

@@ -1,0 +1,14 @@
+/Users/bikun/GIT/OidcClient-Samples-with-Identity-Server-4/src/Samples/Server/OidcServer/bin/Debug/netcoreapp2.1/OidcServer.deps.json
+/Users/bikun/GIT/OidcClient-Samples-with-Identity-Server-4/src/Samples/Server/OidcServer/bin/Debug/netcoreapp2.1/OidcServer.runtimeconfig.json
+/Users/bikun/GIT/OidcClient-Samples-with-Identity-Server-4/src/Samples/Server/OidcServer/bin/Debug/netcoreapp2.1/OidcServer.runtimeconfig.dev.json
+/Users/bikun/GIT/OidcClient-Samples-with-Identity-Server-4/src/Samples/Server/OidcServer/bin/Debug/netcoreapp2.1/OidcServer.dll
+/Users/bikun/GIT/OidcClient-Samples-with-Identity-Server-4/src/Samples/Server/OidcServer/bin/Debug/netcoreapp2.1/OidcServer.pdb
+/Users/bikun/GIT/OidcClient-Samples-with-Identity-Server-4/src/Samples/Server/OidcServer/obj/Debug/netcoreapp2.1/OidcServer.csprojResolveAssemblyReference.cache
+/Users/bikun/GIT/OidcClient-Samples-with-Identity-Server-4/src/Samples/Server/OidcServer/obj/Debug/netcoreapp2.1/OidcServer.csproj.CoreCompileInputs.cache
+/Users/bikun/GIT/OidcClient-Samples-with-Identity-Server-4/src/Samples/Server/OidcServer/obj/Debug/netcoreapp2.1/OidcServer.RazorAssemblyInfo.cache
+/Users/bikun/GIT/OidcClient-Samples-with-Identity-Server-4/src/Samples/Server/OidcServer/obj/Debug/netcoreapp2.1/OidcServer.RazorAssemblyInfo.cs
+/Users/bikun/GIT/OidcClient-Samples-with-Identity-Server-4/src/Samples/Server/OidcServer/obj/Debug/netcoreapp2.1/OidcServer.AssemblyInfoInputs.cache
+/Users/bikun/GIT/OidcClient-Samples-with-Identity-Server-4/src/Samples/Server/OidcServer/obj/Debug/netcoreapp2.1/OidcServer.AssemblyInfo.cs
+/Users/bikun/GIT/OidcClient-Samples-with-Identity-Server-4/src/Samples/Server/OidcServer/obj/Debug/netcoreapp2.1/OidcServer.RazorTargetAssemblyInfo.cache
+/Users/bikun/GIT/OidcClient-Samples-with-Identity-Server-4/src/Samples/Server/OidcServer/obj/Debug/netcoreapp2.1/OidcServer.dll
+/Users/bikun/GIT/OidcClient-Samples-with-Identity-Server-4/src/Samples/Server/OidcServer/obj/Debug/netcoreapp2.1/OidcServer.pdb

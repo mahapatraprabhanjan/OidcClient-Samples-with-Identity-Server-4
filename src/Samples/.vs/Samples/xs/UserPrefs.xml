@@ -1,3 +1,16 @@
-﻿<Properties>
+﻿<Properties StartupConfiguration="{E1F4C1DA-5C87-46DA-B0E7-BA123CC35FA8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Server/OidcServer/Configuration/Config.cs">
+    <Files>
+      <File FileName="Server/OidcServer/Startup.cs" Line="17" Column="70" />
+      <File FileName="Server/OidcServer/Configuration/Config.cs" Line="27" Column="37" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.docker-compose PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Server.OidcServer PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
 </Properties>
